@@ -1,5 +1,4 @@
-# pebblesnake
-Snake for the Pebble watch
+# Snake for the Pebble watch
 
 This game was for the original Pebble watch built on the initial API. Random is included in source as malloc was unavailable at the time and thus the system random could not be called.
 
